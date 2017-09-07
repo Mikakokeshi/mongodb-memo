@@ -1,6 +1,4 @@
 ## mongodb-test
 
-## Built With
--Node.js
--express
--mongoDB/mongoose, 
+# Built With
+Node.js Express mongoDB/mongoose
